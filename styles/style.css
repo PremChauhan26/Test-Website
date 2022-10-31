@@ -64,7 +64,7 @@ article footer {
 
 }
 aside {
-    width: 30%;
+   
     order: 1;
     float: left;
     display: flex;
@@ -76,8 +76,8 @@ aside {
 }
 
 aside > ul img{
-    width: 15%;
-    height: 15%;
+    width: 40px;
+   
 }
 
 aside > ul{
